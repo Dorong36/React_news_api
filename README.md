@@ -1,2 +1,2 @@
-![011](https://github.com/Dorong36/React_news_api/assets/101972179/a2649d1c-af25-4560-82c8-a39167deb68c)
-![012](https://github.com/Dorong36/React_news_api/assets/101972179/e0565f9f-df4a-4dce-8b12-dd3603b0460d)
+![011](https://github.com/Dorong36/React_news_api/assets/101972179/ed59561d-0455-465d-86a6-69daec1076ee)
+![012](https://github.com/Dorong36/React_news_api/assets/101972179/26f8a00a-9edb-407b-ae9b-341b42ff74be)
